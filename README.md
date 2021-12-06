@@ -3,7 +3,9 @@ A font combining OCR-B and OCR-K, which means (hopefully) compatible with [ISO 1
 
 # Refference
 This font was made by combining two different fonts developed independently developed by different font designers.
+
 One is OCR-B by Matthew Anderson, which is available at: https://web.archive.org/web/20190328165040/https://wehtt.am/ocr-b/
+
 The other is OCR-K by Force4u, which is available at: https://force4u.cocolog-nifty.com/skywalker/2010/07/ocrocr-bkw-9d5e.html
 
 # License
