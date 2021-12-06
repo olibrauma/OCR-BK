@@ -8,8 +8,11 @@ A font combining OCR-B and OCR-K, which means (hopefully) compatible with [ISO 1
 # License
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-# Supported Languages include
+# Languages
+OCR-K includes:
 - Japanese
+
+and OCR-B includes:
 - Achehnese
 - Afaan Oromo
 - Afar
