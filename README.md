@@ -2,11 +2,8 @@
 A font combining OCR-B and OCR-K, which means (hopefully) compatible with [ISO 1073-2:1976](https://www.iso.org/standard/5568.html) and [JIS X 9003](https://kikakurui.com/x9/X9003-1980-01.html).
 
 # Refference
-This font was made by combining two different fonts developed independently developed by different font designers.
-
-One is OCR-B by Matthew Anderson, which is available at: https://web.archive.org/web/20190328165040/https://wehtt.am/ocr-b/
-
-The other is OCR-K by Force4u, which is available at: https://force4u.cocolog-nifty.com/skywalker/2010/07/ocrocr-bkw-9d5e.html
+- OCR-B by Matthew Anderson, available at: https://web.archive.org/web/20190328165040/https://wehtt.am/ocr-b/
+- OCR-K by Force4u, available at: https://force4u.cocolog-nifty.com/skywalker/2010/07/ocrocr-bkw-9d5e.html
 
 # License
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
